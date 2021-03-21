@@ -12,13 +12,13 @@ Link to project: https://light-and-sound-memory-game1.glitch.me/
 
 The following **required** functionality is complete:
 
-* [o] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [o] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [o] Game buttons each light up and play a sound when clicked. 
-* [o] Computer plays back sequence of clues including sound and visual cue for each button
-* [o] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [o] User wins the game after guessing a complete pattern
-* [o] User loses the game after an incorrect guess
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
