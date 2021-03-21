@@ -4,7 +4,7 @@
 
 Submitted by: **Junyan Wu**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: https://light-and-sound-memory-game1.glitch.me/
 
